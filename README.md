@@ -6,6 +6,28 @@ Firestore offers a scalable, flexible database solution that seamlessly integrat
 With Firestore, changes made to the todo list are instantly synchronized across all connected devices, providing users with a seamless experience.
 The application supports essential CRUD operations (Create, Read, Update, Delete) for tasks, empowering users to add, edit, complete, and remove tasks as needed.
 
+# Telas
+
+### Homepage
+
+<img src="https://github.com/gui-silva-github/firebaseToDo/blob/main/public/homePage.png">
+
+### Uma Tarefa
+
+<img src="https://github.com/gui-silva-github/firebaseToDo/blob/main/public/oneTask.png">
+
+### Mais de Uma Tarefa
+
+<img src="https://github.com/gui-silva-github/firebaseToDo/blob/main/public/manyTasks.png">
+
+### Coleção e Documento Firebase
+
+<img src="https://github.com/gui-silva-github/firebaseToDo/blob/main/public/fireBase.png">
+
+### Campos do Documento
+
+<img src="https://github.com/gui-silva-github/firebaseToDo/blob/main/public/fields.png">
+
 # Atenção
 
 Because the node_modules has become large, it is necessary for the user to do the npm installs.
